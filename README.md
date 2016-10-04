@@ -1,4 +1,4 @@
-# pinpoint-webhook-test
+# webhook-test
 test repo for webhooks
 
 
